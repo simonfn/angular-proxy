@@ -1,0 +1,6 @@
+services:
+  angularmultiserv:
+    image: angularmultiserv
+    build:
+      context: .
+      dockerfile: ./Dockerfile
