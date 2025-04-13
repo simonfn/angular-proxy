@@ -1,3 +1,0 @@
-# Web multiserver provider
-
-- serve a frontend while using seemlessly different servers as a unique endpoint for backend
