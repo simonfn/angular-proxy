@@ -11,3 +11,4 @@
 # Run
 - `docker compose build`
 - `docker compose up`
+- open `localhost:4200` in the browser
