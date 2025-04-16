@@ -1,6 +1,6 @@
 # Web app with built-in proxy
 
-- serve a frontend while using seemlessly different backend as a unique endpoint (with the proxy)
+- serve a frontend while using seamlessly different backend as a unique endpoint (with the proxy)
 
 # Steps
 - enable access from 0.0.0.0 in the backend and frontend servers startup parameters
